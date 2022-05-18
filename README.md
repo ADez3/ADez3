@@ -1,16 +1,65 @@
-### Hi there 👋
 
-<!--
-**ADez3/ADez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/adez3/"><img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
+</p>
+<br/>  
+   
+ 
+<a href="https://www.facebook.com/adez3hd" rel="nofollow">
+<img align="left" alt="Abdelaziz HADIAT ALLAH | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
+  </a> 
+
+<a href="https://www.linkedin.com/in/adez3/" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | LinkedIn " width="21px" src="https://user-images.githubusercontent.com/41232970/101995945-c1fa3400-3cd6-11eb-8497-79b0e6a7e217.png" style="max-width:100%;">
+</a>
+    <a href="https://www.behance.net/adezhaddy" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
+</a>
+<a href="https://www.youtube.com" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Youtube " width="26px" src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
+  <a href="https://g.dev/adez" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/developers/images/favicon.png" style="max-width:300%; max-height:150%;"> </a>  
+  <br>
+
+<br /> 
+Hi! I'm a mobile application developer.
+
+<br/><br/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3) 
+
+<br/>
+ 
+# About me in a few words:
+- Proficient with Flutter/Android SDK
+- Experience in developing, releasing and maintaining high-quality apps
+- Easy adaptive to business or any requirements
+
+# Key things I've dealt with:
+- Clean Architecture
+- MVP/MVVM/MVI
+- Single Activity
+- Firebase/SQLite/MySql
+- GoogleMap/Mapbox
+
+ <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&layout=compact&theme=radical)<br/>
+
+🔭 I’m currently working at <a href="https://www.upwork.com/freelancers/~0173fe5e572f2c9ceb" rel="nofollow">Upwork</a><br>
+🌱 I’m currently working at <a href="https://mostaql.com/u/Adez" rel="nofollow">Mostaql</a><br><br>
+🔭 I’m currently working at <a href="https://www.belgotic.com" rel="nofollow">Belgotic</a><br>
+
+![Metrics](https://metrics.lecoq.io/ADez3)
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=ADez3&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+
+  
+<h4 align="center">
+  <a href="https://github.com/ADez3?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+ 
