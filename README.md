@@ -1,5 +1,5 @@
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/adez3/"><img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/adez3/"><img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" alt="Header" title="Header" style="max-width:100%;" width="100%"></a></p>
 
 
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
@@ -21,8 +21,8 @@
     <a href="https://www.behance.net/adezhaddy" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
 </a>
-<a href="https://www.youtube.com" rel="nofollow">
-  <img align="left" alt="Abdelaziz HADIAT ALLAH | Youtube " width="26px" src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
+<a href="https://twitter.com/ADez45685225" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Twitter " width="26px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7276.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://g.dev/adez" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/developers/images/favicon.png" style="max-width:300%; max-height:150%;"> </a>  
   <br>
@@ -46,13 +46,13 @@ Hi! I'm a mobile application developer.
 - MVP/MVVM/MVI
 - Single Activity
 - Firebase/SQLite/MySql
-- GoogleMap/Mapbox
+- GoogleMap
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&layout=compact&theme=radical)<br/>
 
 🔭 I’m currently working at <a href="https://www.upwork.com/freelancers/~0173fe5e572f2c9ceb" rel="nofollow">Upwork</a><br>
-🌱 I’m currently working at <a href="https://mostaql.com/u/Adez" rel="nofollow">Mostaql</a><br><br>
-🔭 I’m currently working at <a href="https://www.belgotic.com" rel="nofollow">Belgotic</a><br>
+🌱 I’m currently working at <a href="https://mostaql.com/u/Adez" rel="nofollow">Mostaql</a><br>
+🔭 I’m currently working at <a href="https://www.belgotic.com" rel="nofollow">Belgotic</a><br><br>
 
 ![Metrics](https://metrics.lecoq.io/ADez3)
 
