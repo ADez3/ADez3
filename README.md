@@ -45,7 +45,7 @@ Hi! I'm a mobile application developer.
 - Clean Architecture
 - MVP/MVVM/MVI
 - Single Activity
-- Firebase/SQLite/MySql
+- Firebase/SQLite/GraphQl
 - GoogleMap
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/>
