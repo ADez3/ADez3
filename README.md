@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ADez45685225" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Twitter " width="26px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7276.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://g.dev/adez" rel="nofollow">
-  <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/developers/images/favicon.png" style="max-width:300%; max-height:150%;"> </a>  
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/vd261db5395fbcde659314ae58be50b2e56876271e1a672f069cc1e37ad6c3a79/developers/images/favicon-new.png" style="max-width:300%; max-height:150%;"> </a>  
   <a href="https://me.adez.dev" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Portfolio " width="26px"   src="https://me.adez.dev/favicon.png" style="max-width:300%; max-height:150%;"> </a>
   <br>
