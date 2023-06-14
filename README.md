@@ -25,6 +25,8 @@
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Twitter " width="26px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7276.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://g.dev/adez" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/developers/images/favicon.png" style="max-width:300%; max-height:150%;"> </a>  
+  <a href="https://me.adez.dev" rel="nofollow">
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Portfolio " width="26px"   src="https://me.adez.dev/favicon.png" style="max-width:300%; max-height:150%;"> </a>
   <br>
 
 <br /> 
@@ -32,7 +34,7 @@ Hi! I'm a mobile application developer.
 
 <br/><br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3&include_all_commits=true&count_private=true) 
 
 <br/>
  
