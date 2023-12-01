@@ -33,7 +33,7 @@ Hi! I'm a mobile application developer.
 
 ![ADez's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3&include_all_commits=true&count_private=true) 
 <a href="https://me.adez.dev">
-  <img src="https://img.shields.io/twitter/follow/ADez3?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADez3&theme=dark" />
 </a>
 
 <br/>
