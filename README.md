@@ -8,7 +8,7 @@
 <br/>  
    
  
-<a href="https://www.facebook.com/adez3hd" rel="nofollow">
+<a href="https://www.facebook.com/profile.php?id=100088607090807" rel="nofollow">
 <img align="left" alt="Abdelaziz HADIAT ALLAH | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
   </a> 
 
@@ -18,7 +18,7 @@
     <a href="https://www.behance.net/adezhaddy" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
 </a>
-<a href="https://twitter.com/ADez45685225" rel="nofollow">
+<a href="https://twitter.com/ADez3_" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Twitter " width="26px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7276.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://g.dev/adez" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/vd261db5395fbcde659314ae58be50b2e56876271e1a672f069cc1e37ad6c3a79/developers/images/favicon-new.png" style="max-width:300%; max-height:150%;"> </a>  
