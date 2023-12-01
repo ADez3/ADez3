@@ -1,7 +1,4 @@
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/adez3/"><img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" alt="Header" title="Header" style="max-width:100%;" width="100%"></a></p>
-
-
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center"> 
@@ -35,6 +32,9 @@ Hi! I'm a mobile application developer.
 <br/><br/>
 
 ![ADez's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3&include_all_commits=true&count_private=true) 
+<a href="https://me.adez.dev">
+  <img src="https://img.shields.io/twitter/follow/ADez3?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
 
 <br/>
  
