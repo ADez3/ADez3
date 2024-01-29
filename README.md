@@ -1,13 +1,7 @@
 
-### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Welcome ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-#<p align="center"> 
-#  Visitor count<br>
-#  <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
-#</p>
-<br/>  
-   
- 
+    
 <a href="https://www.facebook.com/profile.php?id=100088607090807" rel="nofollow">
 <img align="left" alt="Abdelaziz HADIAT ALLAH | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
   </a> 
@@ -54,7 +48,6 @@ Hi! I'm a mobile application developer.
 
 🔭 I’m currently working at <a href="https://www.upwork.com/freelancers/~0173fe5e572f2c9ceb" rel="nofollow">Upwork</a><br>
 🌱 I’m currently working at <a href="https://mostaql.com/u/Adez" rel="nofollow">Mostaql</a><br>
-🔭 I’m currently working at <a href="https://www.belgotic.com" rel="nofollow">Belgotic</a><br><br>
 
 ![Metrics](https://metrics.lecoq.io/ADez3)
 
@@ -64,4 +57,10 @@ Hi! I'm a mobile application developer.
 <h4 align="center">
   <a href="https://github.com/ADez3?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align="center"> 
+ Counter<br>
+ <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
+</p>
+<br/>
  
