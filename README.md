@@ -1,10 +1,10 @@
 
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
-</p>
+#<p align="center"> 
+#  Visitor count<br>
+#  <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
+#</p>
 <br/>  
    
  
@@ -48,7 +48,7 @@ Hi! I'm a mobile application developer.
 - MVP/MVVM/MVI
 - Single Activity
 - Firebase/SQLite/GraphQl
-- GoogleMap
+- GoogleMaps
 
  <br/>![ADez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/>
 
