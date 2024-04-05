@@ -39,10 +39,9 @@ Hi! I'm a mobile application developer.
 
 # Key things I've dealt with:
 - Clean Architecture
-- MVP/MVVM/MVI
 - Single Activity
-- Firebase/SQLite/GraphQl
-- GoogleMaps
+- Firebase
+- REST Api
 
  <br/>![ADez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/>
 
