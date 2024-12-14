@@ -45,9 +45,6 @@ Hi! I'm a mobile application developer.
 
  <br/>![ADez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/>
 
-🔭 I’m currently working at <a href="https://www.upwork.com/freelancers/~0173fe5e572f2c9ceb" rel="nofollow">Upwork</a><br>
-🌱 I’m currently working at <a href="https://mostaql.com/u/Adez" rel="nofollow">Mostaql</a><br>
-
 ![Metrics](https://metrics.lecoq.io/ADez3)
 
  <img src="https://activity-graph.herokuapp.com/graph?username=ADez3&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
