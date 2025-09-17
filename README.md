@@ -15,7 +15,7 @@
 <a href="https://twitter.com/ADez3_" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Twitter " width="26px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7276.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://g.dev/adez" rel="nofollow">
-  <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://www.gstatic.com/devrel-devsite/prod/vfa66122381520aa66a2392fe22cd63e3f9c34ba07e71f8c7082c2a470b6e6f49/developers/images/touchicon-180-new.png" style="max-width:300%; max-height:150%;"> </a>  
+  <img align="left" alt="Abdelaziz HADIAT ALLAH | Google Developer " width="26px"   src="https://i.pinimg.com/736x/12/06/1f/12061f54ee55f6336c972ad01350b857.jpg" style="max-width:300%; max-height:150%;"> </a>  
   <a href="https://me.adez.dev" rel="nofollow">
   <img align="left" alt="Abdelaziz HADIAT ALLAH | Portfolio " width="26px"   src="https://me.adez.dev/favicon.png" style="max-width:300%; max-height:150%;"> </a>
   <br>
@@ -25,10 +25,10 @@ Hi! I'm a mobile application developer.
 
 <br/><br/>
 
-![ADez's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3&include_all_commits=true&count_private=true) 
+<!-- ![ADez's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=ADez3&include_all_commits=true&count_private=true) 
 <a href="https://me.adez.dev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADez3&theme=dark" />
-</a>
+</a> -->
 
 <br/>
  
@@ -43,20 +43,20 @@ Hi! I'm a mobile application developer.
 - Firebase
 - REST Api
 
- <br/>![ADez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/>
+ <!-- <br/>![ADez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ADez3&langs_count=8)<br/> 
 
 ![Metrics](https://metrics.lecoq.io/ADez3)
 
  <img src="https://activity-graph.herokuapp.com/graph?username=ADez3&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
-
+-->
   
 <h4 align="center">
   <a href="https://github.com/ADez3?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<p align="center"> 
+<!--<p align="center"> 
  Counter<br>
  <img src="https://profile-counter.glitch.me/ADez3/count.svg" />
 </p>
-<br/>
+<br/> -->
  
